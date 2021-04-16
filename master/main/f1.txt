@@ -7,5 +7,4 @@ hello2 func
 hello3 func
 hello4 func
 public void 
-Scenario: Login with correct credencials
-total
+
