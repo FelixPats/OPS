@@ -14,3 +14,4 @@ Scenario: Login with correct credencials
     And user clicks on login button
     Then user gets the title of the Home page
     And the Account page title should be "My account - My Store"
+total
