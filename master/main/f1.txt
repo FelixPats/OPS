@@ -2,3 +2,7 @@ this is git
 this is a change
 this is a new change
 branch-2 changes
+hello func
+hello2 func
+hello3 func
+hello4 func
