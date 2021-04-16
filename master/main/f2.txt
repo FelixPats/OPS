@@ -1,2 +1,5 @@
 this is git 2
 my name is felix
+git remote -v - lists info about the repo
+git pull origin master
+git push -u origin <name of the branch> - -u coordinates the two branches (local and on server)
